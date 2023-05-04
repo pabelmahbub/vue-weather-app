@@ -24,11 +24,11 @@ content: [
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
 d. create a css file in src/assets named tailwind.css and add:
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
 e. import tailwind.css in main.js file:
-import "./assets/tailwind.css";
+    import "./assets/tailwind.css";
 ```
 Package.json:
 ```
