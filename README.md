@@ -30,3 +30,19 @@ d. create a css file in src/assets named tailwind.css and add:
 e. import tailwind.css in main.js file:
 import "./assets/tailwind.css";
 ```
+Package.json:
+```
+"dependencies": {
+    "axios": "^1.4.0",
+    "uid": "^2.0.2",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.1.4"
+  }
+  ```
