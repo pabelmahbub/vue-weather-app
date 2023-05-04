@@ -1,7 +1,12 @@
 ### vue-weather-app
 ### Live site: https://vue-weather-app-9.netlify.app/
 
-#### clone from repo -> npm i -> npm run dev
+How to run it in local:
+```
+a. clone repo
+b. npm i
+c. npm run dev
+```
 How to develop a vue app:
 ```
 a. create a folder named vue-weather-app
