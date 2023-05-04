@@ -3,7 +3,7 @@
 
 How to run it in local:
 ```
-a. clone repo
+a. clone repo: https://github.com/pabelmahbub/vue-weather-app.git
 b. npm i
 c. npm run dev
 ```
